@@ -1,5 +1,5 @@
 # hello-world
 Just the beginning one
-Type some stupid things just to test it
-If it works then it is ok
-If not then it is too stupid
+Hello, my name is A
+I live in B
+I am X years old
